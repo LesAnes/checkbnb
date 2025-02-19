@@ -1,0 +1,142 @@
+ad_num_voie,ad_rep,ad_voie,ad_cp,ad_ban,ad_bat,ad_esc,ad_etage,ad_num_app,ad_lot,id_num,nuit_t1,nuit_n-1,nom_loueur,res_ppale
+5,,rue de la Paix,75002,n/a,,,2,,,,,7510100000001,250,130,Paul Bertrand,y
+15,,avenue Montaigne,75008,n/a,,,4,,,,,7510100000002,140,80,Alice Roux,y
+20,,rue du Louvre,75001,n/a,,,1,,,,,7510100000003,45,15,Thomas Leclerc,n
+30,,rue de Rivoli,75004,n/a,,,3,,,,,7510100000004,190,110,Julie Moreau,y
+40,,avenue de l'Opéra,75009,n/a,,,5,,,,,7510100000005,90,50,Lucas Fournier,y
+50,,rue Montmartre,75002,n/a,,,2,,,,,7510100000006,110,65,Sophie Chevalier,n
+60,,boulevard Haussmann,75009,n/a,,,6,,,,,7510100000007,270,140,Antoine Garcia,y
+70,,rue de Rennes,75006,n/a,,,4,,,,,7510100000008,70,30,Manon Dupuis,n
+80,,avenue des Ternes,75017,n/a,,,7,,,,,7510100000009,240,125,Hugo Lambert,y
+90,,rue de Belleville,75020,n/a,,,3,,,,,7510100000010,130,75,Chloé Gillet,n
+100,,rue de Richelieu,75002,n/a,,,5,,,,,7510100000011,40,20,Nathan Fabre,n
+110,,avenue des Champs-Élysées,75008,n/a,,,2,,,,,7510100000012,180,102,Camille Blanc,y
+120,,rue du Faubourg Saint-Honoré,75008,n/a,,,6,,,,,7510100000013,80,45,Louis Clement,n
+130,,rue de la Pompe,75016,n/a,,,4,,,,,7510100000014,100,60,Léa Renard,y
+140,,rue de Rivoli,75001,n/a,,,7,,,,,7510100000015,60,35,Arthur Lemaire,n
+150,,boulevard Saint-Germain,75006,n/a,,,3,,,,,7510100000016,260,135,Emma Picard,y
+160,,avenue Victor Hugo,75016,n/a,,,5,,,,,7510100000017,120,70,Adam Rousseau,n
+170,,rue de Vaugirard,75015,n/a,,,2,,,,,7510100000018,50,25,Clara Gerard,n
+180,,rue du Temple,75003,n/a,,,6,,,,,7510100000019,280,155,Gabriel Martin,y
+190,,avenue de Wagram,75017,n/a,,,4,,,,,7510100000020,150,90,Inès Thomas,y
+200,,rue de la Convention,75015,n/a,,,7,,,,,7510100000021,100,58,Raphaël Bernard,n
+210,,rue Lafayette,75010,n/a,,,3,,,,,7510100000022,120,72,Charlotte Petit,y
+220,,boulevard Voltaire,75011,n/a,,,5,,,,,7510100000023,180,105,Valentin Robert,n
+230,,rue de Tolbiac,75013,n/a,,,2,,,,,7510100000024,80,42,Louise Durand,y
+240,,avenue de Saint-Ouen,75018,n/a,,,6,,,,,7510100000025,250,130,Maxime Morel,y
+250,,rue Oberkampf,75011,n/a,,,4,,,,,7510100000026,125,75,Léa Fournier,y
+260,,rue du Faubourg Saint-Antoine,75012,n/a,,,7,,,,,7510100000027,50,30,Clément Renaud,n
+270,,rue de Belleville,75019,n/a,,,3,,,,,7510100000028,165,98,Manon Lefevre,y
+280,,avenue Jean Jaurès,75019,n/a,,,5,,,,,7510100000029,70,35,Théo Caron,y
+290,,rue de Vaugirard,75015,n/a,,,2,,,,,7510100000030,230,120,Océane Dubois,y
+300,,rue du Commerce,75015,n/a,,,6,,,,,7510100000031,110,65,Enzo Leroy,n
+310,,avenue de Versailles,75016,n/a,,,4,,,,,7510100000032,190,112,Jade Joly,y
+320,,rue de la Convention,75015,n/a,,,7,,,,,7510100000033,90,50,Ethan Brun,n
+330,,rue Lecourbe,75015,n/a,,,3,,,,,7510100000034,115,68,Agathe Gauthier,y
+340,,boulevard de Grenelle,75015,n/a,,,5,,,,,7510100000035,60,32,Tom Giraud,n
+350,,rue de Vaugirard,75015,n/a,,,2,,,,,7510100000036,255,132,Clémence Lacroix,y
+360,,rue de Javel,75015,n/a,,,6,,,,,7510100000037,135,80,Leo Dupont,n
+370,,rue de Lourmel,75015,n/a,,,4,,,,,7510100000038,45,24,Lina Royer,y
+380,,rue de Vaugirard,75015,n/a,,,7,,,,,7510100000039,275,150,Mathis Richard,y
+390,,rue de la Croix Nivert,75015,n/a,,,3,,,,,7510100000040,145,85,Eva Garnier,y
+400,,rue de Vaugirard,75015,n/a,,,5,,,,,7510100000041,50,26,Maxence Faure,n
+410,,rue de la Convention,75015,n/a,,,2,,,,,7510100000042,175,100,Sarah Fernandes,y
+420,,rue de Vaugirard,75015,n/a,,,6,,,,,7510100000043,95,55,Hugo Da Silva,n
+430,,rue de la Croix Nivert,75015,n/a,,,4,,,,,7510100000044,110,65,Sofia Martinez,y
+440,,rue de Vaugirard,75015,n/a,,,7,,,,,7510100000045,75,40,Lucas Dupuy,n
+450,,rue Lecourbe,75015,n/a,,,3,,,,,7510100000046,250,130,Anna Berge,y
+460,,boulevard de Grenelle,75015,n/a,,,5,,,,,7510100000047,135,82,Tom Guillot,n
+470,,rue de Vaugirard,75015,n/a,,,2,,,,,7510100000048,55,30,Chloé Lecomte,y
+480,,rue de Javel,75015,n/a,,,6,,,,,7510100000049,270,148,Mathis Olivier,y
+490,,rue de Lourmel,75015,n/a,,,4,,,,,7510100000050,140,85,Lina Lamy,y
+500,,rue de Vaugirard,75015,n/a,,,7,,,,,7510100000051,65,35,Enzo Aubert,n
+510,,rue de la Croix Nivert,75015,n/a,,,3,,,,,7510100000052,240,125,Eva Remy,y
+520,,rue de Vaugirard,75015,n/a,,,5,,,,,7510100000053,120,72,Maxence Rolland,n
+530,,rue Lecourbe,75015,n/a,,,2,,,,,7510100000054,185,105,Sofia Legrand,y
+540,,boulevard de Grenelle,75015,n/a,,,6,,,,,7510100000055,80,45,Tom Blanchard,y
+550,,rue de Vaugirard,75015,n/a,,,4,,,,,7510100000056,290,160,Clémence Clement,y
+560,,rue de Javel,75015,n/a,,,7,,,,,7510100000057,160,95,Leo Arnaud,n
+570,,rue de Lourmel,75015,n/a,,,3,,,,,7510100000058,50,28,Lina Guerin,y
+580,,rue de Vaugirard,75015,n/a,,,5,,,,,7510100000059,230,120,Mathis Robin,n
+590,,rue de la Croix Nivert,75015,n/a,,,2,,,,,7510100000060,125,75,Eva Meyer,y
+600,,rue de Vaugirard,75015,n/a,,,6,,,,,7510100000061,170,102,Maxence Benard,y
+610,,rue de la Convention,75015,n/a,,,4,,,,,7510100000062,90,52,Sarah Rodrigues,y
+620,,rue de Vaugirard,75015,n/a,,,7,,,,,7510100000063,105,60,Hugo Thomas,n
+630,,rue de la Croix Nivert,75015,n/a,,,3,,,,,7510100000064,70,38,Sofia Dupont,y
+640,,rue de Vaugirard,75015,n/a,,,5,,,,,7510100000065,245,128,Lucas Bernard,n
+650,,rue Lecourbe,75015,n/a,,,2,,,,,7510100000066,130,78,Anna Lucas,y
+660,,boulevard de Grenelle,75015,n/a,,,6,,,,,7510100000067,55,30,Tom Moreau,n
+670,,rue de Vaugirard,75015,n/a,,,4,,,,,7510100000068,285,155,Chloé Jean,y
+680,,rue de Javel,75015,n/a,,,7,,,,,7510100000069,155,92,Mathis Leroy,n
+690,,rue de Lourmel,75015,n/a,,,3,,,,,7510100000070,60,33,Lina Barbier,y
+700,,rue de Vaugirard,75015,n/a,,,5,,,,,7510100000071,225,115,Enzo Peltier,n
+710,,rue de la Croix Nivert,75015,n/a,,,2,,,,,7510100000072,115,70,Eva Roussel,y
+720,,rue de Vaugirard,75015,n/a,,,6,,,,,7510100000073,180,105,Maxence Legall,y
+730,,rue Lecourbe,75015,n/a,,,4,,,,,7510100000074,90,50,Sofia Gillet,y
+740,,boulevard de Grenelle,75015,n/a,,,7,,,,,7510100000075,100,58,Tom Berger,n
+750,,rue de Vaugirard,75015,n/a,,,3,,,,,7510100000076,270,148,Clémence Lemaire,y
+760,,rue de Javel,75015,n/a,,,5,,,,,7510100000077,150,90,Leo Mercier,n
+770,,rue de Lourmel,75015,n/a,,,2,,,,,7510100000078,50,26,Lina Dupin,y
+780,,rue de Vaugirard,75015,n/a,,,6,,,,,7510100000079,245,125,Mathis Chevalier,y
+790,,rue de la Croix Nivert,75015,n/a,,,4,,,,,7510100000080,120,72,Eva Vincent,y
+800,,rue de Vaugirard,75015,n/a,,,7,,,,,7510100000081,175,102,Maxence Gaillard,n
+810,,rue Lecourbe,75015,n/a,,,3,,,,,7510100000082,85,48,Sarah Guillaume,y
+820,,boulevard de Grenelle,75015,n/a,,,5,,,,,7510100000083,110,62,Tom Leclerc,n
+830,,rue de Vaugirard,75015,n/a,,,2,,,,,7510100000084,295,170,Clémence Carpentier,y
+840,,rue de Javel,75015,n/a,,,6,,,,,7510100000085,165,98,Leo Philippe,n
+850,,rue de Lourmel,75015,n/a,,,4,,,,,7510100000086,55,30,Lina Perrier,y
+860,,rue de Vaugirard,75015,n/a,,,7,,,,,7510100000087,235,120,Mathis Guillou,n
+870,,rue de la Croix Nivert,75015,n/a,,,3,,,,,7510100000088,115,68,Eva Lambert,y
+880,,rue de Vaugirard,75015,n/a,,,5,,,,,7510100000089,170,100,Maxence Le Roux,n
+890,,rue Lecourbe,75015,n/a,,,2,,,,,7510100000090,90,55,Sofia David,y
+900,,boulevard de Grenelle,75015,n/a,,,6,,,,,7510100000091,105,60,Tom Michel,n
+910,,rue de Vaugirard,75015,n/a,,,4,,,,,7510100000092,265,145,Clémence Fontaine,y
+920,,rue de Javel,75015,n/a,,,7,,,,,7510100000093,145,85,Leo Jacques,n
+930,,rue de Lourmel,75015,n/a,,,3,,,,,7510100000094,40,22,Lina Leroy,y
+940,,rue de Vaugirard,75015,n/a,,,5,,,,,7510100000095,280,155,Mathis Colin,n
+950,,rue de la Croix Nivert,75015,n/a,,,2,,,,,7510100000096,150,90,Eva Dufour,y
+960,,rue de Vaugirard,75015,n/a,,,6,,,,,7510100000097,50,28,Maxence Germain,n
+970,,rue Lecourbe,75015,n/a,,,4,,,,,7510100000098,220,112,Sarah Robin,y
+980,,boulevard de Grenelle,75015,n/a,,,7,,,,,7510100000099,110,68,Tom Louis,n
+990,,rue de Vaugirard,75015,n/a,,,3,,,,,7510100000100,160,95,Clémence Aubry,y
+10,,rue de la Paix,75002,n/a,,,,,,,,7510200008888,110,65,Sophie Martin,y # ID Inexistant
+11,,rue de Belleville,75020,n/a,,,,,,,,7512100000001,70,30,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+12,,rue de Rivoli,75001,n/a,,,,,,,,7510100000001,270,140,Paul Bertrand,y # ID en Doublon
+13,,rue de Montmartre,75002,n/a,,,,,,,,7510200007777,120,70,Paul Leblanc,y # ID Inexistant
+14,,rue de Belleville,75020,n/a,,,,,,,,7512200000001,80,40,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+15,,rue de Rivoli,75001,n/a,,,,,,,,7510100000002,250,130,Alice Roux,y # ID en Doublon
+16,,rue de la Paix,75002,n/a,,,,,,,,7510200006666,110,65,Sophie Martin,y # ID Inexistant
+17,,rue de Belleville,75020,n/a,,,,,,,,7512300000001,70,30,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+18,,rue de Rivoli,75001,n/a,,,,,,,,7510100000003,230,120,Thomas Leclerc,y # ID en Doublon
+19,,rue de la Paix,75002,n/a,,,,,,,,7510200005555,120,70,Paul Leblanc,y # ID Inexistant
+20,,rue de Belleville,75020,n/a,,,,,,,,7512400000001,80,40,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+21,,rue de Rivoli,75001,n/a,,,,,,,,7510100000004,210,110,Julie Moreau,y # ID en Doublon
+22,,rue de la Paix,75002,n/a,,,,,,,,7510200004444,110,65,Sophie Martin,y # ID Inexistant
+23,,rue de Belleville,75020,n/a,,,,,,,,7512500000001,70,30,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+24,,rue de Rivoli,75001,n/a,,,,,,,,7510100000005,190,100,Lucas Fournier,y # ID en Doublon
+25,,rue de la Paix,75002,n/a,,,,,,,,7510200003333,120,70,Paul Leblanc,y # ID Inexistant
+26,,rue de Belleville,75020,n/a,,,,,,,,7512600000001,80,40,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+27,,rue de Rivoli,75001,n/a,,,,,,,,7510100000006,170,90,Sophie Chevalier,y # ID en Doublon
+28,,rue de la Paix,75002,n/a,,,,,,,,7510200002222,110,65,Sophie Martin,y # ID Inexistant
+29,,rue de Belleville,75020,n/a,,,,,,,,7512700000001,70,30,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+30,,rue de Rivoli,75001,n/a,,,,,,,,7510100000007,150,80,Antoine Garcia,y # ID en Doublon
+31,,rue de la Paix,75002,n/a,,,,,,,,7510200001111,120,70,Paul Leblanc,y # ID Inexistant
+32,,rue de Belleville,75020,n/a,,,,,,,,7512800000001,80,40,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+33,,rue de Rivoli,75001,n/a,,,,,,,,7510100000008,130,70,Manon Dupuis,y # ID en Doublon
+34,,rue de la Paix,75002,n/a,,,,,,,,7510200000000,110,65,Sophie Martin,y # ID Inexistant
+35,,rue de Belleville,75020,n/a,,,,,,,,7512900000001,70,30,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+36,,rue de Rivoli,75001,n/a,,,,,,,,7510100000009,110,60,Hugo Lambert,y # ID en Doublon
+37,,rue de la Paix,75002,n/a,,,,,,,,7510200000009,120,70,Paul Leblanc,y # ID Inexistant
+38,,rue de Belleville,75020,n/a,,,,,,,,7513000000001,80,40,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+39,,rue de Rivoli,75001,n/a,,,,,,,,7510100000010,90,50,Chloé Gillet,y # ID en Doublon
+40,,rue de la Paix,75002,n/a,,,,,,,,7510200000008,110,65,Sophie Martin,y # ID Inexistant
+41,,rue de Belleville,75020,n/a,,,,,,,,7513100000001,70,30,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+42,,rue de Rivoli,75001,n/a,,,,,,,,7510100000011,70,40,Nathan Fabre,y # ID en Doublon
+43,,rue de la Paix,75002,n/a,,,,,,,,7510200000007,120,70,Paul Leblanc,y # ID Inexistant
+44,,rue de Belleville,75020,n/a,,,,,,,,7513200000001,80,40,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+45,,rue de Rivoli,75001,n/a,,,,,,,,7510100000012,50,30,Camille Blanc,y # ID en Doublon
+46,,rue de la Paix,75002,n/a,,,,,,,,7510200000006,110,65,Sophie Martin,y # ID Inexistant
+47,,rue de Belleville,75020,n/a,,,,,,,,7513300000001,70,30,Julie Bernard,n # ID Inexistant et Arrondissement Erroné
+48,,rue de Rivoli,75001,n/a,,,,,,,,7510100000013,30,20,Louis Clement,y # ID en Doublon
+49,,rue de la Paix,75002,n/a,,,,,,,,7510200000005,120,70,Paul Leblanc,y # ID Inexistant
+50,,rue de Belleville,75020,n/a,,,,,,,,7513400000001,80,40,Julie Bernard,n # ID Inexistant et Arrondissement Erronés
