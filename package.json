@@ -2,9 +2,9 @@
   "name": "checkbnb",
   "version": "0.1.0",
   "author": {
-    "name": "Aymeric et Thomas"
+    "name": "Aymeric & Thomas"
   },
-  "description": "Mairie toolbox",
+  "description": "Outillage de Mairie",
   "main": "./build/electron/main.js",
   "scripts": {
     "dump": "dump-stlite-desktop-artifacts",

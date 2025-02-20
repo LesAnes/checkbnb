@@ -7,7 +7,8 @@ st.title("Analyse des données")
 with st.expander("Données"):
     teleservice_file = st.file_uploader("Fichier CSV téléservice", type="csv")
     airbnb_file = st.file_uploader("Fichier CSV Airbnb", type="csv")
-    booking_file = st.file_uploader("Fichier CSV Booking", type="csv")
+    # TODO Uncomment when it will be used
+    # booking_file = st.file_uploader("Fichier CSV Booking", type="csv")
 
 if teleservice_file is not None and airbnb_file is not None:
     teleservice_df = pd.read_csv(teleservice_file, index_col=False)
@@ -15,13 +16,18 @@ if teleservice_file is not None and airbnb_file is not None:
     
     airbnb_df = pd.read_csv(airbnb_file, index_col=False)
     airbnb_df["Numéro de déclaration du meublé"] = airbnb_df["Numéro de déclaration du meublé"].astype(str)
-    
-    
+
     if st.button("Analyser"):
         # Merge the two DataFrames
-        airbnb_merged = airbnb_df.merge(teleservice_df, left_on="Numéro de déclaration du meublé",right_on="numero_declaration", suffixes=('_airbnb', ''), how="left")
+        airbnb_merged = airbnb_df.merge(
+          teleservice_df,
+          left_on="Numéro de déclaration du meublé",
+          right_on="numero_declaration",
+          suffixes=('_airbnb', ''),
+          how="left"
+        )
         st.dataframe(airbnb_merged.head())
-        
+
         # count the number of empty values in id_internal
         empty_id_mask = airbnb_merged["numero_declaration"].isnull()
         empty_id = empty_id_mask.sum()
