@@ -2,10 +2,17 @@ import streamlit as st
 import pandas as pd
 from utils import is_id_number_valid
 
+st.set_page_config(page_title="Analyse CSV", page_icon="📊")
+
+def load_excel_or_csv(file):
+    if file.name.endswith(".xlsx"):
+        return pd.read_excel(file, engine="openpyxl")
+    return pd.read_csv(file, index_col=False)
+
 def analyze_data(source_name, source_file, teleservice_df, id_col, name_col, postal_code_col):
     if source_file is not None:
         st.header(f"Analyse {source_name}")
-        source_df = pd.read_csv(source_file, index_col=False)
+        source_df = load_excel_or_csv(source_file)
         source_df[id_col] = source_df[id_col].astype(str)
 
         if st.button(f"Analyser {source_name}"):
@@ -42,12 +49,12 @@ def analyze_data(source_name, source_file, teleservice_df, id_col, name_col, pos
 st.title("Analyse des données")
 
 with st.expander("Données"):
-    teleservice_file = st.file_uploader("Fichier CSV téléservice", type="csv")
-    airbnb_file = st.file_uploader("Fichier CSV Airbnb", type="csv")
-    booking_file = st.file_uploader("Fichier CSV Booking", type="csv")
+    teleservice_file = st.file_uploader("Fichier téléservice", type=["csv", "xlsx"])
+    airbnb_file = st.file_uploader("Fichier Airbnb", type=["csv", "xlsx"])
+    booking_file = st.file_uploader("Fichier Booking", type=["csv", "xlsx"])
 
 if teleservice_file is not None:
-    teleservice_df = pd.read_csv(teleservice_file, index_col=False)
+    teleservice_df = load_excel_or_csv(teleservice_file)
     teleservice_df["numero_declaration"] = teleservice_df["numero_declaration"].astype(str)
 
     tabs = st.tabs(["Airbnb", "Booking"])
