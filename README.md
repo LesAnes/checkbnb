@@ -16,7 +16,7 @@ Run `source .venv/bin/activate`
 This command start the server. Once activated, you will see your environment name in parentheses before your prompt. "(.venv)"
 ```
 
-Run `pip install streamlit`
+Run `pip install -r requirements.txt`
 ```
 This command install streamlit.
 ```
