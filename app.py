@@ -1,6 +1,5 @@
 import streamlit as st
 import pandas as pd
-import matplotlib.pyplot as plt
 from utils import is_id_number_valid
 
 st.set_page_config(page_title="Analyse CSV", page_icon="📊")

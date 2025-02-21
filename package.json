@@ -1,6 +1,6 @@
 {
   "name": "checkbnb",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "author": {
     "name": "Aymeric & Thomas"
   },
@@ -29,8 +29,7 @@
     "desktop": {
       "files": ["app.py", "utils.py"],
       "entrypoint": "app.py",
-      "nodeJsWorker": true,
-      "requirementsTxtFiles": ["requirements.txt"]
+      "nodeJsWorker": true
     }
   }
 }
