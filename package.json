@@ -30,10 +30,7 @@
       "files": ["app.py", "utils.py"],
       "entrypoint": "app.py",
       "nodeJsWorker": true,
-      "requirementsTxtFiles": ["requirements.txt"],
-      "nodefsMountpoints": {
-        "/mnt": "."
-      }
+      "requirementsTxtFiles": ["requirements.txt"]
     }
   }
 }
