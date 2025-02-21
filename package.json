@@ -28,9 +28,7 @@
     "mac": {
       "category": "public.app-category.productivity"
     },
-    "icon": {
-      "png": "./icon.png"
-    },
+    "icon": "./icon.png",
     "files": ["build/**/*"],
     "directories": {
       "buildResources": "assets"
@@ -46,7 +44,8 @@
     "desktop": {
       "files": ["app.py", "utils.py"],
       "entrypoint": "app.py",
-      "nodeJsWorker": true
+      "nodeJsWorker": true,
+      "embed": true
     }
   }
 }
