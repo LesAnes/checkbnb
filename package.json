@@ -4,6 +4,15 @@
   "author": {
     "name": "Aymeric & Thomas"
   },
+  "contributors": [{
+    "name": "Aymeric Dominique",
+    "email": "aymeric.dominique@gmail.com",
+    "url": "https://www.linkedin.com/in/aymeric-dominique/"
+  }, {
+    "name": "Thomas Legrand",
+    "email": "legrand.thomas5@hotmail.fr",
+    "url": "https://www.linkedin.com/in/thomas-d-legrand/"
+  }],
   "description": "Outillage de Mairie",
   "main": "./build/electron/main.js",
   "scripts": {
@@ -14,6 +23,14 @@
     "postinstall": "electron-builder install-app-deps"
   },
   "build": {
+    "productName": "CheckBnb",
+    "appId": "com.electron.checkbnb",
+    "mac": {
+      "category": "public.app-category.productivity"
+    },
+    "icon": {
+      "png": "./icon.png"
+    },
     "files": ["build/**/*"],
     "directories": {
       "buildResources": "assets"
