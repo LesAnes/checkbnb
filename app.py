@@ -64,6 +64,7 @@ with st.expander("Données"):
 
 if teleservice_file is not None:
     teleservice_df = load_excel_or_csv(teleservice_file)
+    print(teleservice_df)
     teleservice_df["numero_declaration"] = teleservice_df["numero_declaration"].astype(str)
     
     if st.button("Analyser tous les fichiers"):

@@ -43,6 +43,7 @@
   "stlite": {
     "desktop": {
       "files": ["app.py", "utils.py"],
+      "dependencies": ["openpyxl"],
       "entrypoint": "app.py",
       "nodeJsWorker": true,
       "embed": true
