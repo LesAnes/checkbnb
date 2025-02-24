@@ -2,7 +2,7 @@ import streamlit as st
 import pandas as pd
 from utils import is_id_number_valid
 
-st.set_page_config(page_title="Analyse CSV", page_icon="📊")
+st.set_page_config(page_title="CheckBnb", page_icon="📊")
 
 def load_excel_or_csv(file):
     if file.name.endswith(".xlsx"):
