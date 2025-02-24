@@ -1,6 +1,6 @@
 {
   "name": "checkbnb",
-  "version": "0.1.8",
+  "version": "0.1.9",
   "author": {
     "name": "Aymeric & Thomas"
   },
@@ -27,6 +27,12 @@
     "appId": "com.electron.checkbnb",
     "mac": {
       "category": "public.app-category.productivity"
+    },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Utility"
     },
     "icon": "./icon.png",
     "files": ["build/**/*"],
