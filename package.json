@@ -28,6 +28,12 @@
     "mac": {
       "category": "public.app-category.productivity"
     },
+    "linux": {
+      "target": [
+        "AppImage"
+      ],
+      "category": "Utility"
+    },
     "icon": "./icon.png",
     "files": ["build/**/*"],
     "directories": {
